@@ -1,5 +1,7 @@
 public with sharing class FirstClassforGit {
     public FirstClassforGit() {
-         SySystem.debug("Rahul");
+         System.debug("Rahul");
+         System.debug("Rahul-2");
+         
     }
 }
